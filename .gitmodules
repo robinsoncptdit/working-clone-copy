@@ -1,6 +1,3 @@
-[submodule "static"]
-	path = static
-	url = git@github.com:robinsoncptdit/static
 [submodule "themes"]
 	path = themes
 	url = git@github.com:robinsoncptdit/themes
